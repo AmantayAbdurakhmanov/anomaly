@@ -1,2 +1,2 @@
 # anomaly_model
-Ensemble anomaly detection model
+Unsupervised ensemble anomaly detection model
